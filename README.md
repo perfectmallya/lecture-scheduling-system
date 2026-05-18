@@ -1,2 +1,22 @@
-# lecture-scheduling-system
-A responsive lecture scheduling and examination invigilation system built to help institutions manage class schedules, examination venues, and teacher allocations efficiently.
+# Lecture Scheduling System
+
+A responsive web application designed to manage lecture schedules, examination invigilation, and venue allocation efficiently.
+
+## Features
+- Lecture timetable management
+- Teacher scheduling
+- Venue allocation
+- Examination invigilation
+- Search and filter schedules
+- Responsive UI
+
+## Technologies Used
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+
+## Installation
+```bash
+npm install
+npm start
