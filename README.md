@@ -20,3 +20,4 @@ A responsive web application designed to manage lecture schedules, examination i
 ```bash
 npm install
 npm start
+[git-1.pdf](https://github.com/user-attachments/files/27950367/git-1.pdf)
